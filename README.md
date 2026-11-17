@@ -17,7 +17,7 @@ The network connects a three-floor headquarters with a remote branch office thro
 - DHCP Configuration
 - Port Security, BPDU Guard and DHCP Snooping
 - Network Troubleshooting
-- Multicast Network Design (PIM Sparse Mode and IGMP)
+
 
 ## My Contributions
 - Designed and configured IPv6 dual-stack addressing
